@@ -1,0 +1,5 @@
+relocatable = true
+comment = 'Improved ST_DumpPoints'
+default_version = '1.0'
+requires = 'postgis'
+
